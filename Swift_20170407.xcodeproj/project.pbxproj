@@ -22,25 +22,6 @@
 		A7CBC8C41E973E4900E9AB9B /* setting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7CBC8BF1E973E4900E9AB9B /* setting@2x.png */; };
 		A7CBC8C51E973E4900E9AB9B /* indexSelect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7CBC8C11E973E4900E9AB9B /* indexSelect@2x.png */; };
 		A7CBC8C61E973E4900E9AB9B /* settingSelect@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A7CBC8C21E973E4900E9AB9B /* settingSelect@2x.png */; };
-		A7CBC8DD1E97454600E9AB9B /* AFError.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8C91E97454600E9AB9B /* AFError.swift */; };
-		A7CBC8DE1E97454600E9AB9B /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8CB1E97454600E9AB9B /* Alamofire.swift */; };
-		A7CBC8DF1E97454600E9AB9B /* DispatchQueue+Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8CC1E97454600E9AB9B /* DispatchQueue+Alamofire.swift */; };
-		A7CBC8E01E97454600E9AB9B /* Info-tvOS.plist in Resources */ = {isa = PBXBuildFile; fileRef = A7CBC8CD1E97454600E9AB9B /* Info-tvOS.plist */; };
-		A7CBC8E11E97454600E9AB9B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A7CBC8CE1E97454600E9AB9B /* Info.plist */; };
-		A7CBC8E21E97454600E9AB9B /* MultipartFormData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8CF1E97454600E9AB9B /* MultipartFormData.swift */; };
-		A7CBC8E31E97454600E9AB9B /* NetworkReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D01E97454600E9AB9B /* NetworkReachabilityManager.swift */; };
-		A7CBC8E41E97454600E9AB9B /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D11E97454600E9AB9B /* Notifications.swift */; };
-		A7CBC8E51E97454600E9AB9B /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D21E97454600E9AB9B /* ParameterEncoding.swift */; };
-		A7CBC8E61E97454600E9AB9B /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D31E97454600E9AB9B /* Request.swift */; };
-		A7CBC8E71E97454600E9AB9B /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D41E97454600E9AB9B /* Response.swift */; };
-		A7CBC8E81E97454600E9AB9B /* ResponseSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D51E97454600E9AB9B /* ResponseSerialization.swift */; };
-		A7CBC8E91E97454600E9AB9B /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D61E97454600E9AB9B /* Result.swift */; };
-		A7CBC8EA1E97454600E9AB9B /* ServerTrustPolicy.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D71E97454600E9AB9B /* ServerTrustPolicy.swift */; };
-		A7CBC8EB1E97454600E9AB9B /* SessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D81E97454600E9AB9B /* SessionDelegate.swift */; };
-		A7CBC8EC1E97454600E9AB9B /* SessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8D91E97454600E9AB9B /* SessionManager.swift */; };
-		A7CBC8ED1E97454600E9AB9B /* TaskDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8DA1E97454600E9AB9B /* TaskDelegate.swift */; };
-		A7CBC8EE1E97454600E9AB9B /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8DB1E97454600E9AB9B /* Timeline.swift */; };
-		A7CBC8EF1E97454600E9AB9B /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7CBC8DC1E97454600E9AB9B /* Validation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,26 +63,6 @@
 		A7CBC8BF1E973E4900E9AB9B /* setting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "setting@2x.png"; sourceTree = "<group>"; };
 		A7CBC8C11E973E4900E9AB9B /* indexSelect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "indexSelect@2x.png"; sourceTree = "<group>"; };
 		A7CBC8C21E973E4900E9AB9B /* settingSelect@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "settingSelect@2x.png"; sourceTree = "<group>"; };
-		A7CBC8C91E97454600E9AB9B /* AFError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AFError.swift; sourceTree = "<group>"; };
-		A7CBC8CA1E97454600E9AB9B /* Alamofire.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Alamofire.h; sourceTree = "<group>"; };
-		A7CBC8CB1E97454600E9AB9B /* Alamofire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alamofire.swift; sourceTree = "<group>"; };
-		A7CBC8CC1E97454600E9AB9B /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
-		A7CBC8CD1E97454600E9AB9B /* Info-tvOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-tvOS.plist"; sourceTree = "<group>"; };
-		A7CBC8CE1E97454600E9AB9B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A7CBC8CF1E97454600E9AB9B /* MultipartFormData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipartFormData.swift; sourceTree = "<group>"; };
-		A7CBC8D01E97454600E9AB9B /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkReachabilityManager.swift; sourceTree = "<group>"; };
-		A7CBC8D11E97454600E9AB9B /* Notifications.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
-		A7CBC8D21E97454600E9AB9B /* ParameterEncoding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParameterEncoding.swift; sourceTree = "<group>"; };
-		A7CBC8D31E97454600E9AB9B /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
-		A7CBC8D41E97454600E9AB9B /* Response.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
-		A7CBC8D51E97454600E9AB9B /* ResponseSerialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseSerialization.swift; sourceTree = "<group>"; };
-		A7CBC8D61E97454600E9AB9B /* Result.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
-		A7CBC8D71E97454600E9AB9B /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServerTrustPolicy.swift; sourceTree = "<group>"; };
-		A7CBC8D81E97454600E9AB9B /* SessionDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SessionDelegate.swift; sourceTree = "<group>"; };
-		A7CBC8D91E97454600E9AB9B /* SessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SessionManager.swift; sourceTree = "<group>"; };
-		A7CBC8DA1E97454600E9AB9B /* TaskDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskDelegate.swift; sourceTree = "<group>"; };
-		A7CBC8DB1E97454600E9AB9B /* Timeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timeline.swift; sourceTree = "<group>"; };
-		A7CBC8DC1E97454600E9AB9B /* Validation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,7 +119,6 @@
 				A7CBC8AA1E9732FB00E9AB9B /* HttpProtocols */,
 				A7CBC8AB1E9732FB00E9AB9B /* Managers */,
 				A7CBC8AC1E9732FB00E9AB9B /* Models */,
-				A7CBC8AD1E9732FB00E9AB9B /* OpenSources */,
 				A7CBC8AE1E9732FB00E9AB9B /* Resources */,
 				A7CBC8AF1E9732FB00E9AB9B /* ViewControllers */,
 				A7CBC8B01E9732FB00E9AB9B /* Views */,
@@ -226,14 +186,6 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
-		A7CBC8AD1E9732FB00E9AB9B /* OpenSources */ = {
-			isa = PBXGroup;
-			children = (
-				A7CBC8C81E97454600E9AB9B /* AlamofireSource */,
-			);
-			path = OpenSources;
-			sourceTree = "<group>";
-		};
 		A7CBC8AE1E9732FB00E9AB9B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -283,33 +235,6 @@
 				A7CBC8C21E973E4900E9AB9B /* settingSelect@2x.png */,
 			);
 			path = Select;
-			sourceTree = "<group>";
-		};
-		A7CBC8C81E97454600E9AB9B /* AlamofireSource */ = {
-			isa = PBXGroup;
-			children = (
-				A7CBC8C91E97454600E9AB9B /* AFError.swift */,
-				A7CBC8CA1E97454600E9AB9B /* Alamofire.h */,
-				A7CBC8CB1E97454600E9AB9B /* Alamofire.swift */,
-				A7CBC8CC1E97454600E9AB9B /* DispatchQueue+Alamofire.swift */,
-				A7CBC8CD1E97454600E9AB9B /* Info-tvOS.plist */,
-				A7CBC8CE1E97454600E9AB9B /* Info.plist */,
-				A7CBC8CF1E97454600E9AB9B /* MultipartFormData.swift */,
-				A7CBC8D01E97454600E9AB9B /* NetworkReachabilityManager.swift */,
-				A7CBC8D11E97454600E9AB9B /* Notifications.swift */,
-				A7CBC8D21E97454600E9AB9B /* ParameterEncoding.swift */,
-				A7CBC8D31E97454600E9AB9B /* Request.swift */,
-				A7CBC8D41E97454600E9AB9B /* Response.swift */,
-				A7CBC8D51E97454600E9AB9B /* ResponseSerialization.swift */,
-				A7CBC8D61E97454600E9AB9B /* Result.swift */,
-				A7CBC8D71E97454600E9AB9B /* ServerTrustPolicy.swift */,
-				A7CBC8D81E97454600E9AB9B /* SessionDelegate.swift */,
-				A7CBC8D91E97454600E9AB9B /* SessionManager.swift */,
-				A7CBC8DA1E97454600E9AB9B /* TaskDelegate.swift */,
-				A7CBC8DB1E97454600E9AB9B /* Timeline.swift */,
-				A7CBC8DC1E97454600E9AB9B /* Validation.swift */,
-			);
-			path = AlamofireSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -421,12 +346,10 @@
 			files = (
 				A7CBC8C61E973E4900E9AB9B /* settingSelect@2x.png in Resources */,
 				A7CBC8821E972E4800E9AB9B /* LaunchScreen.storyboard in Resources */,
-				A7CBC8E11E97454600E9AB9B /* Info.plist in Resources */,
 				A7CBC8C31E973E4900E9AB9B /* index@2x.png in Resources */,
 				A7CBC87F1E972E4800E9AB9B /* Assets.xcassets in Resources */,
 				A7CBC87D1E972E4800E9AB9B /* Main.storyboard in Resources */,
 				A7CBC8C41E973E4900E9AB9B /* setting@2x.png in Resources */,
-				A7CBC8E01E97454600E9AB9B /* Info-tvOS.plist in Resources */,
 				A7CBC8C51E973E4900E9AB9B /* indexSelect@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -452,28 +375,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7CBC8E41E97454600E9AB9B /* Notifications.swift in Sources */,
-				A7CBC8DD1E97454600E9AB9B /* AFError.swift in Sources */,
-				A7CBC8EB1E97454600E9AB9B /* SessionDelegate.swift in Sources */,
 				A7CBC8B11E9732FB00E9AB9B /* TabBarBaseViewController.swift in Sources */,
-				A7CBC8E81E97454600E9AB9B /* ResponseSerialization.swift in Sources */,
-				A7CBC8DE1E97454600E9AB9B /* Alamofire.swift in Sources */,
-				A7CBC8E71E97454600E9AB9B /* Response.swift in Sources */,
-				A7CBC8DF1E97454600E9AB9B /* DispatchQueue+Alamofire.swift in Sources */,
-				A7CBC8E21E97454600E9AB9B /* MultipartFormData.swift in Sources */,
 				A7CBC8B31E97334900E9AB9B /* HelpRequset.swift in Sources */,
-				A7CBC8EE1E97454600E9AB9B /* Timeline.swift in Sources */,
-				A7CBC8EA1E97454600E9AB9B /* ServerTrustPolicy.swift in Sources */,
-				A7CBC8EF1E97454600E9AB9B /* Validation.swift in Sources */,
-				A7CBC8E51E97454600E9AB9B /* ParameterEncoding.swift in Sources */,
 				A7CBC8781E972E4800E9AB9B /* AppDelegate.swift in Sources */,
-				A7CBC8E31E97454600E9AB9B /* NetworkReachabilityManager.swift in Sources */,
 				A7CBC8B71E97365F00E9AB9B /* NavigationBaseViewController.swift in Sources */,
-				A7CBC8E61E97454600E9AB9B /* Request.swift in Sources */,
-				A7CBC8E91E97454600E9AB9B /* Result.swift in Sources */,
 				A7CBC8BB1E973C1800E9AB9B /* PersonSettingViewController.swift in Sources */,
-				A7CBC8EC1E97454600E9AB9B /* SessionManager.swift in Sources */,
-				A7CBC8ED1E97454600E9AB9B /* TaskDelegate.swift in Sources */,
 				A7CBC8B91E97368600E9AB9B /* IndexViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -717,6 +623,7 @@
 				A7CBC89E1E972E4800E9AB9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7CBC89F1E972E4800E9AB9B /* Build configuration list for PBXNativeTarget "Swift_20170407Tests" */ = {
 			isa = XCConfigurationList;
@@ -725,6 +632,7 @@
 				A7CBC8A11E972E4800E9AB9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7CBC8A21E972E4800E9AB9B /* Build configuration list for PBXNativeTarget "Swift_20170407UITests" */ = {
 			isa = XCConfigurationList;
@@ -733,6 +641,7 @@
 				A7CBC8A41E972E4800E9AB9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

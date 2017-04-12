@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Alamofire
 
 
 class IndexViewController: UIViewController {
@@ -17,14 +18,31 @@ class IndexViewController: UIViewController {
         // Do any additional setup after loading the view.
         self.view.backgroundColor = UIColor.blue
         getData()
+        
+        
     }
+    
     
     func getData() -> () {
         
-        let urlRequest = URLRequest(url: URL(string: "https://httpbin.org/get")!)
-        let urlString = urlRequest.url?.absoluteString
+//        let urlRequest = URLRequest(url: URL(string: "https://httpbin.org/get")!)
+//        let urlString = urlRequest.url?.absoluteString
+//        
+//        NSLog(urlString!)
+
+        let urlString = "https://httpbin.org/get"
         
-        NSLog(urlString!)
+        
+        // When
+        Alamofire.request(urlString, parameters: ["foo": "bar"]).response { resp in
+            
+            print(resp.request, resp.data)
+            
+        }
+
+        
+
+        
     }
 
     override func didReceiveMemoryWarning() {
